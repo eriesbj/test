@@ -1,2 +1,3 @@
 Name = eries
 Registration no. = 190296
+adress = kenanga 3 no 22, perum suradita
